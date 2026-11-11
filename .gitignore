@@ -1,0 +1,15 @@
+
+# Arquivos compilados
+**/target/
+*.class
+
+# Logs
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Arquivos confidenciais
+.env
+.env.*
